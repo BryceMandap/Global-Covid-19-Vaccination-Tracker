@@ -4,3 +4,7 @@ The primary objective of this project was to develop a comprehensive system to m
 ![image](https://user-images.githubusercontent.com/129364286/230008564-1dfa2b75-5ff4-4b2a-b71e-66c86cb17632.png)
 ![image](https://user-images.githubusercontent.com/129364286/230008706-fe28d073-e455-40be-a0d5-8a64447b2161.png)
 
+# Insights Found
+- 66.24% of People around the world at Fully Vaccinated against COVID-19
+- the Cayman Islands have the highest Ratio for Fully Vaccinated Population
+- Based on the visuals there seems to be a correlation between GDP and Vaccination Rates
